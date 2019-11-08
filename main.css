@@ -11,7 +11,7 @@
 }
 
 table {
-  min-width: 150%;
+  min-width: 140%;
 }
 
 .vertical {
@@ -31,3 +31,12 @@ h1 {
 th, td, p {
   font-family: Montserrat;
 }
+
+@media print {
+  .campaign-blue {
+    background-color: #10E0E0 !important;
+  }
+  .campaign-orange {
+    background-color: #F4976C !important;
+  }
+    }
