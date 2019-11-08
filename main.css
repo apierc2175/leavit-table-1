@@ -1,7 +1,33 @@
 .campaign-blue {
-  background-color: #75B4C1
+  background-color: #10E0E0
 }
 
 .campaign-orange {
-  background-color: #EF5B31
+  background-color: #F4976C
+}
+
+.customer {
+  padding-top: 100px;
+}
+
+table {
+  min-width: 150%;
+}
+
+.vertical {
+  transform: rotate(270deg);
+  margin-top: 190%;
+  margin-left: -80px;
+}
+
+.wider {
+  width: 18%;
+}
+
+h1 {
+  font-family: Merriweather !important;
+}
+
+th, td, p {
+  font-family: Montserrat;
 }
